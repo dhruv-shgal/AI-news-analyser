@@ -49,24 +49,8 @@ An intelligent news analysis tool that leverages AI to collect, analyze, and sum
 
 Run the main application:
 ```bash
-python src/main.py
+python app.py
 ```
-
-### Configuration
-
-Modify `config.yaml` to adjust:
-- News sources to monitor
-- Analysis parameters
-- Update frequency
-- Output formats
-
-## 🔄 Pipeline
-
-1. **Collection**: News articles are collected from various sources
-2. **Preprocessing**: Text is cleaned and normalized
-3. **Analysis**: Multiple analysis techniques are applied
-4. **Summarization**: Key points are extracted
-5. **Visualization**: Results are displayed in an interactive dashboard
 
 ## 🤝 Contributing
 
