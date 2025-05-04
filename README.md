@@ -1,6 +1,5 @@
 # AI News Analyzer
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 
 An intelligent news analysis tool that leverages AI to collect, analyze, and summarize news articles from various sources. The system tracks trends, sentiment, and key entities across news stories, providing comprehensive insights into current events.
@@ -78,8 +77,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
